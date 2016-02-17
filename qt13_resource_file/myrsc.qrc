@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resc1">
+        <file alias="pro1">qt13_resource_file.pro</file>
+    </qresource>
+</RCC>
